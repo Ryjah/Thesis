@@ -1,5 +1,5 @@
 %Inisialisasi Serial dan Grafik
-serialPort = 'COM4';
+serialPort = 'COM4'; //Sesuaikan PORT
 judulGrafik = 'Grafik Sensor';
 xLabel = 'Waktu (detik)';
 yLabel = 'Data';
